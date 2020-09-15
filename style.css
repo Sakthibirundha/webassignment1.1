@@ -1,0 +1,22 @@
+body {
+  background-color: pink;
+  background-image:url(sky.jpg);
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+p {
+	color: white;
+  font-family: timesnewroman;
+  font-size: 24px;
+}
+h2 {
+	color: black;
+}
+a{
+	color:blue;
+}
+© 2020 GitHub, Inc.
